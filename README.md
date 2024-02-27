@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**naimroslan/naimroslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naim, Frontend developer from **Kuala Lumpur, Malaysia**.
 
 Here are some ideas to get you started:
 
